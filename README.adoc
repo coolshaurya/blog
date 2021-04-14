@@ -1,0 +1,7 @@
+= Shaurya's blog
+
+I've decided to start a blog. I'm planning to post stuff related to code that interests me here. 
+There are no posts (yet).
+I can't be bothered to set up a static site generator so you'll have to use the Github interface
+to view the AsciiDoc files in link:https://github.com/coolshaurya/blog/tree/master/articles[the articles folder].
+
